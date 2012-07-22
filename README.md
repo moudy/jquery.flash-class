@@ -9,6 +9,6 @@ $('p').flashClass();
 $('p').addClass('flash');
 setTimeout(function () { $('p').removeClass('flash'); }, 500);
 
-// you can pass in options to override class name and/or delay
+// you can pass in options to override className and/or delay
 $('p').flashClass({ className: 'highlight', delay: 1000 });
 ````
