@@ -1,6 +1,6 @@
 # jQuery.flashClass
 
-Some syntatic sugar for adding and removing a class within a set amount of time.
+Some syntactic sugar for adding and removing a class within a set amount of time.
 
 ``` javascript
 $('p').flashClass();
