@@ -5,7 +5,7 @@ Some syntactic sugar for adding and removing a class within a set amount of time
 ``` javascript
 $('p').flashClass();
 
-// equivalent to the folleing 2 lines
+// equivalent to the following 2 lines
 $('p').addClass('flash');
 setTimeout(function () { $('p').removeClass('flash'); }, 500);
 
